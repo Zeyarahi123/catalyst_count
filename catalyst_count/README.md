@@ -4,8 +4,8 @@
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/Zeyarahi123/catalyst-count.git
-    cd catalyst-count
+    git clone https://github.com/Zeyarahi123/catalyst_count.git
+    cd catalyst_count
     ```
 
 2. **Create and activate a virtual environment**:
@@ -27,7 +27,7 @@
     DB_PASSWORD=catalyst123
     DB_HOST=localhost
     DB_PORT=5432
-    SECRET_KEY=your_secret_key
+    SECRET_KEY=asdfg120qwe86512
     DEBUG=True
     ```
 
